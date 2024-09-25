@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1725774533 source:c:\users\gabri\onedrive\documentos\faculdade\algoritmos e estrutura de dados\matriz_esparsa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+
+1725806016 c:\users\gabri\onedrive\documentos\faculdade\algoritmos e estrutura de dados\matriz_esparsa\matriz.h
+
